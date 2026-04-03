@@ -1,0 +1,69 @@
+{
+  "RandomForest": {
+    "Accuracy": 0.9959349593495935,
+    "Precision": 0.9919797846627115,
+    "Recall": 0.9959349593495935,
+    "F1": 0.9939302817685711,
+    "CV_Acc": 0.9959316409490626
+  },
+  "XGBoost": {
+    "Accuracy": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "CV_Acc": 1.0
+  },
+  "LightGBM": {
+    "Accuracy": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "CV_Acc": 0.9991869918699188
+  },
+  "CatBoost": {
+    "Accuracy": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "CV_Acc": 1.0
+  },
+  "ExtraTrees": {
+    "Accuracy": 0.9959349593495935,
+    "Precision": 0.9919797846627115,
+    "Recall": 0.9959349593495935,
+    "F1": 0.9939302817685711,
+    "CV_Acc": 0.9983739837398374
+  },
+  "NeuralNet": {
+    "Accuracy": 0.991869918699187,
+    "F1": 0.989906650700342
+  },
+  "XGB_tuned": {
+    "Accuracy": 1.0,
+    "F1": 1.0
+  },
+  "LGBM_tuned": {
+    "Accuracy": 1.0,
+    "F1": 1.0
+  },
+  "CB_tuned": {
+    "Accuracy": 1.0,
+    "F1": 1.0
+  },
+  "Voting": {
+    "Accuracy": 1.0,
+    "F1": 1.0
+  },
+  "Weighted_Voting": {
+    "Accuracy": 1.0,
+    "F1": 1.0
+  },
+  "Stacking": {
+    "Accuracy": 1.0,
+    "F1": 1.0
+  },
+  "Blended": {
+    "Accuracy": 1.0,
+    "F1": 1.0
+  }
+}
